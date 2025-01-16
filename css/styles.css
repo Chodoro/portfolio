@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background-color: #333;
+    background-color: #f33f3f;
     color: white;
     padding: 10px 0;
 }
@@ -60,11 +60,11 @@ nav a:hover {
 }
 
 .cta-button:hover {
-    background-color: #555;
+    background-color: #f33f3f;
 }
 
 .about {
-    background-color: #eee;
+    background-color: #f33f3f3d;
     padding: 100px 0;
     text-align: center;
 }
@@ -106,7 +106,7 @@ nav a:hover {
 }
 
 .contact {
-    background-color: #333;
+    background-color: #f33f3fb0;
     color: white;
     padding: 100px 0;
     text-align: center;
@@ -123,7 +123,7 @@ nav a:hover {
 }
 
 footer {
-    background-color: #333;
+    background-color: #f33f3fb0;
     color: white;
     text-align: center;
     padding: 20px 0;
